@@ -1,0 +1,6 @@
+{
+  "name": "Eye Clinic Website",
+  "description": "A clean, modern, and professional eye clinic website providing eye care services, online appointment booking, and interactive AI eye health guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
